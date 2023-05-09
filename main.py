@@ -1,5 +1,4 @@
 import os
-import pillow
 import rtoml
 import random
 
